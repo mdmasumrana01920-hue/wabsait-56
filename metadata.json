@@ -1,0 +1,6 @@
+{
+  "name": "AdVantage Dashboard",
+  "description": "Comprehensive publisher dashboard for ad network management, site monetization, and real-time earnings tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
